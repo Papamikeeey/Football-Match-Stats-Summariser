@@ -1,0 +1,9 @@
+[package]
+name = "matchtracker_project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-format = "0.4"
+chrono = "0.4"
+colored = "3.0.0"

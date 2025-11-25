@@ -1,0 +1,10 @@
+/Users/papamikeeey/projects/projectone/hello_cargo/matchtracker_project/target/debug/deps/libcolored-2b2153b159075df8.rmeta: /Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/lib.rs /Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/color.rs /Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/control.rs /Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/error.rs /Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/style.rs /Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/customcolors.rs
+
+/Users/papamikeeey/projects/projectone/hello_cargo/matchtracker_project/target/debug/deps/colored-2b2153b159075df8.d: /Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/lib.rs /Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/color.rs /Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/control.rs /Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/error.rs /Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/style.rs /Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/customcolors.rs
+
+/Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/lib.rs:
+/Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/color.rs:
+/Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/control.rs:
+/Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/error.rs:
+/Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/style.rs:
+/Users/papamikeeey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-3.0.0/src/customcolors.rs:
